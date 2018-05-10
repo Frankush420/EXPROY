@@ -18,7 +18,7 @@
         <div class="tab-content">
             <div role="tabpanel" class="tab-pane fade in active" id="listas">
                 <fieldset>
-                    <legend style="margin-bottom:0px;">LISTAS DE PRECIOS</legend>
+                    <legend style="margin-bottom:0px;">LISTAS DE PRECIOS </legend>
                     <asp:UpdatePanel ID="upnlListas" runat="server" UpdateMode="Always">
                         <ContentTemplate>
                             <div id="divMsj" role="alert" runat="server" visible="false">

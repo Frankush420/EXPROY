@@ -1,0 +1,25 @@
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.dll
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.pdb
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.dll
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.pdb
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.dll
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.pdb
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.dll
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.pdb
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.dll
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.pdb
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.dll
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.pdb
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.dll
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.pdb
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.dll
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.pdb
+D:\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.dll
+D:\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.pdb
+D:\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.csprojResolveAssemblyReference.cache
+D:\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.dll
+D:\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.pdb

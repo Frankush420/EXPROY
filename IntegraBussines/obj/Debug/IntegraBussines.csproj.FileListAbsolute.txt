@@ -1,0 +1,42 @@
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraBussines\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.dll
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.pdb
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.dll
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.pdb
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.dll
+C:\Documents and Settings\PC2\Escritorio\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.pdb
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.dll
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.pdb
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.dll
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.pdb
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraBussines\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.dll
+C:\Documents and Settings\INTEGRA 11\Escritorio\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.pdb
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.dll
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.pdb
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.dll
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.pdb
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraBussines\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.dll
+C:\Documents and Settings\Franco\Escritorio\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.pdb
+C:\Users\Daniel\Desktop\hey\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.dll
+C:\Users\Daniel\Desktop\hey\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.pdb
+C:\Users\Daniel\Desktop\hey\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.dll
+C:\Users\Daniel\Desktop\hey\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.pdb
+C:\Users\Daniel\Desktop\hey\Integra_Develomentt\IntegraBussines\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\hey\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.dll
+C:\Users\Daniel\Desktop\hey\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.pdb
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.dll
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.pdb
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.dll
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.pdb
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraBussines\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.dll
+C:\Documents and Settings\Franco\Escritorio\Hey\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.pdb
+D:\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.dll
+D:\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraBussines.pdb
+D:\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.dll
+D:\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.pdb
+D:\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.csprojResolveAssemblyReference.cache
+D:\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.dll
+D:\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.pdb

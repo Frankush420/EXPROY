@@ -1,0 +1,166 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Integra_Develomentt.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>REGISTRO</title>
+    <%--<link href="/templates/tu_plantilla/favicon.ico" rel="shortcut icon" type="image/x-icon" />--%>
+    <link href="~/Bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Styles/MenuColapsable.css" rel="stylesheet" type="text/css" />
+    <%--<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />--%>
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>  
+<body>
+    <form id="Form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server" EnableScriptGlobalization="true" EnableScriptLocalization="true">
+        </asp:ScriptManager>
+        <div id="wrapper">
+            <div class="overlay"></div>
+            <!-- Sidebar -->
+            <nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
+                <ul class="nav sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="#">
+                            Empresa
+                        </a>
+                    </li>
+                    <li>
+                        <a href="../Productos.aspx">Productos</a>
+                    </li>
+                    <li>
+                        <a href="../Almacen.aspx">Almacén</a>
+                    </li>
+                    <li>
+                        <a href="../Precios.aspx">Lista de precios</a>
+                    </li>
+                    <li>
+                        <a href="../Clientes.aspx">Clientes</a>
+                    </li>
+                    <li>
+                        <a href="../Ventas.aspx">Ventas</a>
+                    </li>
+                    <%--<li>
+                        <a href="../Clasificacion.aspx">Configuración</a>
+                    </li>--%>
+                </ul>
+            </nav>
+            <!-- /#sidebar-wrapper -->
+
+            <!-- Page Content -->
+            <div id="page-content-wrapper">
+                <button type="button" class="hamburger is-closed" data-toggle="offcanvas">
+                    <span class="hamb-top"></span>
+    			    <span class="hamb-middle"></span>
+				    <span class="hamb-bottom"></span>
+                </button>
+                <div class="page">
+                    <div class="header">
+                        <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Always">
+                            <ContentTemplate>
+                                <div style=" padding-left:7%; padding-right:5%" class="form-inline">
+                                    <div class="form-group">
+                                        <h1>
+                                            <asp:Label ID="lblEmpresa" runat="server" Text=""></asp:Label>
+                                        </h1>
+                                    </div>
+                                    <p class="navbar-text navbar-right">
+                                        <asp:Label ID="lblUsuario" runat="server" Text="" CssClass="h4" style=" padding-right:13px;" ForeColor="White"></asp:Label>
+                                        <asp:LinkButton ID="lnkCerrarSesion" runat="server" class="btn btn-default"
+                                            Visible="false" OnClientClick="mdlToggle('#mdlSalirSistema');">
+                                            <span class="glyphicon glyphicon-log-out"></span>&nbsp;Cerrar sesión
+                                        </asp:LinkButton>
+                                    </p>
+                                </div>
+                            </ContentTemplate>
+                        </asp:UpdatePanel>
+                    </div>
+                    <div class="container-fluid" style=" padding-top:10px">
+                        <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+                        <div class="modal fade" id="mdlProceso" data-backdrop="static">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <p><center>Procesando...</center></p>
+                                        <p>
+                                            <div class="progress">
+                                                <div id="divProceso" class="progress-bar progress-bar-info progress-bar-striped active" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+                                                    <span class="sr-only">Procesando</span>
+                                                </div>
+                                            </div>
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal fade bs-example-modal-sm" id="mdlSalirSistema" data-backdrop="static">
+                            <div class="modal-dialog modal-sm">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title">
+                                            <span id="Span1" runat="server" aria-hidden="true" class="glyphicon glyphicon-info-sign"></span>
+                                            <asp:Label ID="Label1" runat="server" Text="Aviso"></asp:Label>
+                                        </h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <p class="text-center">
+                                            <asp:Label ID="Label2" runat="server" Text="¿Desea salir del sistema?"></asp:Label>
+                                        </p>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">No</button>
+                                        <asp:LinkButton ID="lnkSalirSistema" runat="server" class="btn btn-primary" 
+                                            Text="Si" OnClick="lnkSalirSistema_Click"/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal fade" id="mdlError">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                        <h4 class="modal-title">
+                                            <span id="spnHeaderModal" runat="server" aria-hidden="true" class="glyphicon glyphicon-info-sign"></span>
+                                            <asp:Label ID="lblHeaderMdlError" runat="server" Text="Error"></asp:Label>
+                                        </h4>
+                                    </div>
+                                    <div class="modal-body">
+                                        <p>
+                                            <asp:UpdatePanel ID="UpdatePanel2" runat="server" UpdateMode="Always">
+                                                <ContentTemplate>
+                                                    <asp:Label ID="lblError" runat="server" Text=""></asp:Label>
+                                                </ContentTemplate>
+                                            </asp:UpdatePanel>
+                                        </p>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer">
+                    <label style=" font-size:0.8em">
+                        <span class="glyphicon glyphicon-sunglasses"></span>&nbsp; Daniel Franco® 2017 México, CDMX │ Aviso de Privacidad │ Contácto: (01)5561956771 
+                    </label>
+                </div>
+            </div>
+            <!-- /#page-content-wrapper -->
+
+        </div>
+        <!-- /#wrapper -->
+        
+    </form>
+    <script type="text/javascript" src="Scripts/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="Bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="Scripts/jsMenuColapsable.js"></script>
+    <script type="text/javascript" src="Scripts/jsMaster.js"></script>
+</body>
+</html>

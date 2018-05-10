@@ -40,3 +40,12 @@ D:\Integra_Develomentt\IntegraBussines\bin\Debug\IntegraData.pdb
 D:\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.csprojResolveAssemblyReference.cache
 D:\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.dll
 D:\Integra_Develomentt\IntegraBussines\obj\Debug\IntegraBussines.pdb
+D:\GITHUB\EXPROY\IntegraBussines\bin\Debug\IntegraBussines.dll
+D:\GITHUB\EXPROY\IntegraBussines\bin\Debug\IntegraBussines.pdb
+D:\GITHUB\EXPROY\IntegraBussines\bin\Debug\IntegraData.dll
+D:\GITHUB\EXPROY\IntegraBussines\bin\Debug\IntegraData.pdb
+D:\GITHUB\EXPROY\IntegraBussines\obj\Debug\IntegraBussines.csprojAssemblyReference.cache
+D:\GITHUB\EXPROY\IntegraBussines\obj\Debug\IntegraBussines.csproj.CoreCompileInputs.cache
+D:\GITHUB\EXPROY\IntegraBussines\obj\Debug\IntegraBussines.csproj.CopyComplete
+D:\GITHUB\EXPROY\IntegraBussines\obj\Debug\IntegraBussines.dll
+D:\GITHUB\EXPROY\IntegraBussines\obj\Debug\IntegraBussines.pdb

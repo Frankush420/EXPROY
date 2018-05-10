@@ -22,3 +22,9 @@ D:\Integra_Develomentt\INTEGRAReports\bin\Debug\INTEGRAReports.dll
 D:\Integra_Develomentt\INTEGRAReports\bin\Debug\INTEGRAReports.pdb
 D:\Integra_Develomentt\INTEGRAReports\obj\Debug\INTEGRAReports.dll
 D:\Integra_Develomentt\INTEGRAReports\obj\Debug\INTEGRAReports.pdb
+D:\GITHUB\EXPROY\INTEGRAReports\bin\Debug\INTEGRAReports.dll
+D:\GITHUB\EXPROY\INTEGRAReports\bin\Debug\INTEGRAReports.pdb
+D:\GITHUB\EXPROY\INTEGRAReports\obj\Debug\INTEGRAReports.csprojAssemblyReference.cache
+D:\GITHUB\EXPROY\INTEGRAReports\obj\Debug\INTEGRAReports.csproj.CoreCompileInputs.cache
+D:\GITHUB\EXPROY\INTEGRAReports\obj\Debug\INTEGRAReports.dll
+D:\GITHUB\EXPROY\INTEGRAReports\obj\Debug\INTEGRAReports.pdb

@@ -23,3 +23,9 @@ D:\Integra_Develomentt\IntegraData\bin\Debug\IntegraData.pdb
 D:\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.csprojResolveAssemblyReference.cache
 D:\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.dll
 D:\Integra_Develomentt\IntegraData\obj\Debug\IntegraData.pdb
+D:\GITHUB\EXPROY\IntegraData\bin\Debug\IntegraData.dll
+D:\GITHUB\EXPROY\IntegraData\bin\Debug\IntegraData.pdb
+D:\GITHUB\EXPROY\IntegraData\obj\Debug\IntegraData.csprojAssemblyReference.cache
+D:\GITHUB\EXPROY\IntegraData\obj\Debug\IntegraData.csproj.CoreCompileInputs.cache
+D:\GITHUB\EXPROY\IntegraData\obj\Debug\IntegraData.dll
+D:\GITHUB\EXPROY\IntegraData\obj\Debug\IntegraData.pdb
